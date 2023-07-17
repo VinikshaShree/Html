@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<title>Little things</title>
+<head>
+</head>
+<body>
+<form> 
+<label>
+Full Name:    
+</label>
+<input type="test" name="Full name" value="" placeholder="enter your name" size="80" required>
+<label>Address:</label>
+<textarea placeholder ="Text yoyr address" cols="50" row="5"></textarea>
+<select>
+    <label>Grocery List</label>
+    <label>Biscuits</label>
+    <input type="Checkbox" value="Biscuits">
+</select>
+<input type="Submit" value="Submit">
+<input type="Reset" value="Reset">
+</form>
+</body>
+</html>
